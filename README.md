@@ -10,6 +10,7 @@
 
 ## Git stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoPedroDaCunha&show_icons=true&hide_border=true&hide_title=true&border_radius=20&theme=dark&icon_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPedroDaCunha&layout=compact&theme=dark&hide_border=true&border_radius=20)
 <!--## Hi there 👋
 
 <!--
