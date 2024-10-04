@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/joaoPedroDaCunha)
 
 ## Git stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoPedroDaCunha&show_icons=true&hide_border=true&hide_title=true&border_radius=20&theme=dark&icon_color=fff)
 <!--## Hi there 👋
 
 <!--
