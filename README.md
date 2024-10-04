@@ -1,5 +1,5 @@
 <h1>
-    <a href="" width="36px" src="./if_5137012.png"><img></a>
+    <a href="" ><img width="36px" src="if_5137012.png"></a>
     <span>João Pedro Da Cunha Santos<span>
 </h1>
 <p align="justify" >Programador Junior voltado para o back-end,terminando a facudade de Analise e Desenvolvimento de Sistemas</p>
