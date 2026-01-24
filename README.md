@@ -2,7 +2,7 @@
     <a href="" ><img width="36px" src="if_5137012.png" alt="https://www.freepik.com/"></a>
     <span>João Pedro Da Cunha Santos<span>
 </h1>
-<p align="justify" >Programador Junior voltado para o back-end,terminando a facudade de Analise e Desenvolvimento de Sistemas</p>
+<p align="justify" >Programador Junior voltado para o back-end</p>
 
 ## Connect me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/jo%C3%A3o-pedro-da-cunha-santos-2a7456254/)
